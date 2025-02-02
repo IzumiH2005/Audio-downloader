@@ -1,0 +1,22 @@
+### Python ###
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv/
+
+### Bot spécifique ###
+downloads/
+bot_database.sqlite
+.env
+
+### IDE ###
+.idea/
+.vscode/
+*.swp
+*.swo
+
+### Système ###
+.DS_Store
+Thumbs.db
